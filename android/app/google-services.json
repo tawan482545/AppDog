@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "947064391330",
+    "firebase_url": "https://myloginapp-9a40f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myloginapp-9a40f",
+    "storage_bucket": "myloginapp-9a40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947064391330:android:70e2a986a90ea94138f9fb",
+        "android_client_info": {
+          "package_name": "com.example.myprojict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLA0lwQ8U21rz9-bcoiyJReHkAj_cugk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
